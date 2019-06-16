@@ -1,0 +1,81 @@
+{
+  "songs": [
+    {
+      "name" : "Goodmorning America!",
+      "album" : "NEWS AT 11",
+      "genre" : "vaporwave",
+      "artist" : "nekoshi corp",
+      "year" : "2016"
+    },
+    {
+      "name" : "Downtown",
+      "album" : "NEWS AT 11",
+      "genre" : "vaporwave",
+      "artist" : "nekoshi corp",
+      "year" : "2016"
+    },
+    {
+      "name" : "Palm mall",
+      "album" : "Palm mall",
+      "genre" : "mallsoft",
+      "artist" : "nekoshi corp",
+      "year" : "2014"
+    },
+    {
+      "name" : "Back in black",
+      "album" : "Back in black",
+      "genre" : "hard rock",
+      "artist" : "AC/DC",
+      "year" : "1980"
+    },
+    {
+      "name" : "Another day in paradise",
+      "album" : "...But seriously",
+      "genre" : "pop",
+      "artist" : "Phil Collins",
+      "year" : "1989"
+    },
+    {
+      "name" : "Welcome to New York",
+      "album" : "1989",
+      "genre" : "pop",
+      "artist" : "Taylor Swift",
+      "year" : "2014"
+    },
+    {
+      "name" : "Бетономешалка",
+      "album" : "Unknown",
+      "genre" : "death metal",
+      "artist" : "Кувалда",
+      "year" : "1998"
+    }
+  ],
+  "genres": [
+    {
+      "name": "vaporwave",
+      "subgenres": [
+        "mallsoft",
+        "hardvapour",
+        "future funk",
+        "pop"
+      ]
+    },
+    {
+      "name": "rock",
+      "subgenres": [
+        "rock'n'roll",
+        "hard rock",
+        "metal",
+        "punk rock"
+      ]
+    },
+    {
+      "name": "metal",
+      "subgenres": [
+        "death metal",
+        "growling"
+      ]
+    },
+
+  ]
+}
